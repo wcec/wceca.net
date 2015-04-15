@@ -1,0 +1,13 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /:categories/:title.html
+
+name: wceca.net
+url: http://wceca.net
+media_url: http://media.wcec-home.org/wceca
+
+exclude: ['doc']
+
+gems:
+- jekyll-sitemap
+
